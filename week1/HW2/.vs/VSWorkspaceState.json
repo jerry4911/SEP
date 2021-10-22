@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\UML-Editor",
+    "\\UML-Editor\\UMLEditor",
+    "\\UML-Editor\\UMLEditor\\packages",
+    "\\UML-Editor\\UMLEditor\\UMLEditor",
+    "\\UML-Editor\\UMLEditor\\UMLEditor\\Actions",
+    "\\UML-Editor\\UMLEditor\\UMLEditor\\Modes",
+    "\\UML-Editor\\UMLEditor\\UMLEditor\\Pseudo",
+    "\\UML-Editor\\UMLEditor\\UMLEditor\\Shapes"
+  ],
+  "SelectedNode": "\\UML-Editor\\UMLEditor\\UMLEditor\\Actions\\DeleteAction.cs",
+  "PreviewInSolutionExplorer": false
+}
